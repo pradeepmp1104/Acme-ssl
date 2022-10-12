@@ -37,15 +37,6 @@
 
 It's probably the `easiest & smartest` shell script to automatically issue & renew the free certificates.
 
-Wiki: https://github.com/acmesh-official/acme.sh/wiki
-
-For Docker Fans: [acme.sh :two_hearts: Docker ](https://github.com/acmesh-official/acme.sh/wiki/Run-acme.sh-in-docker)
-
-Twitter: [@neilpangxa](https://twitter.com/neilpangxa)
-
-
-# [中文说明](https://github.com/acmesh-official/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
-
 # Who:
 - [FreeBSD.org](https://blog.crashed.org/letsencrypt-in-freebsd-org/)
 - [ruby-china.org](https://ruby-china.org/topics/31983)
@@ -524,9 +515,3 @@ Please Star and Fork me.
 [Issues](https://github.com/acmesh-official/acme.sh/issues) and [pull requests](https://github.com/acmesh-official/acme.sh/pulls) are welcome.
 
 
-# 20. Donate
-Your donation makes **acme.sh** better:
-
-1. PayPal/Alipay(支付宝)/Wechat(微信): [https://donate.acme.sh/](https://donate.acme.sh/)
-
-[Donate List](https://github.com/acmesh-official/acme.sh/wiki/Donate-list)
