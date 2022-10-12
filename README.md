@@ -470,13 +470,6 @@ TODO:
 2. ACME protocol: https://github.com/ietf-wg-acme/acme
 
 
-## Contributors
-
-### Code Contributors
-
-This project exists thanks to all the people who contribute.
-<a href="https://github.com/acmesh-official/acme.sh/graphs/contributors"><img src="https://opencollective.com/acmesh/contributors.svg?width=890&button=false" /></a>
-
 
 # 19. License & Others
 
